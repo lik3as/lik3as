@@ -9,7 +9,7 @@
 - C++/C ![](https://geps.dev/progress/70)
 - Dart ![](https://geps.dev/progress/70)
 ---
-[![My Skills](https://skillicons.dev/icons?i=git,linux,androidstudio,nodejs,flutter&perline=6)](https://skillicons.dev)...
+[![My Skills](https://skillicons.dev/icons?i=git,linux,androidstudio,nodejs,flutter&perline=6)](https://skillicons.dev)
 #### Ferramentas:
 - Git ![](https://geps.dev/progress/100)
 - Linux ![](https://geps.dev/progress/100)
