@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá ^.^ 👋
+---
+#### Bem vindo ao meu perfil!
+#### Linguagens:
+- Java
+- Javascript
+- C/C++
+- Dart
+- SQL
 
-<!--
-**lik3as/lik3as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Ferramentas:
+- Android Studio
+- Node.js
+- Express
+- Sequelize
+- Flutter
