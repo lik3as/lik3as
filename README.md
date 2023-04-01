@@ -11,7 +11,7 @@
 ---
 [![My Skills](https://skillicons.dev/icons?i=git,linux,androidstudio,nodejs,flutter&perline=6)](https://skillicons.dev)
 #### Ferramentas:
-- Git &ensp; &ensp; &ensp; &ensp; &ensp;&ensp; &ensp; ![](https://geps.dev/progress/100)
+- Git &ensp;  &ensp;  &ensp; &ensp; &ensp;&ensp; &ensp; ![](https://geps.dev/progress/100)
 - Linux &ensp; &ensp; &ensp; &ensp; &ensp;&ensp;![](https://geps.dev/progress/100)
 - Android Studio ![](https://geps.dev/progress/100)
 - Node.js &ensp; &ensp; &ensp; &ensp; ![](https://geps.dev/progress/100)
