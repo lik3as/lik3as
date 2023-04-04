@@ -1,16 +1,16 @@
-### Olá ^.^ 👋
+## Olá ^.^ 👋
 ---
-### 👨‍💻 Bem vindo ao meu perfil! Aqui você encontrará:
+## 👨‍💻 Bem vindo ao meu perfil! Aqui você encontrará:
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,c,cpp,dart&perline=5)](https://skillicons.dev)
-#### Linguagens:
+### Linguagens:
 - Java &ensp; &ensp; &ensp; ![](https://geps.dev/progress/100)
 - Javascript ![](https://geps.dev/progress/100)
 - C++/C &ensp; &ensp; ![](https://geps.dev/progress/70)
 - Dart &ensp;&ensp; &ensp; &ensp;![](https://geps.dev/progress/70)
 ---
 [![My Skills](https://skillicons.dev/icons?i=git,linux,androidstudio,nodejs,flutter&perline=6)](https://skillicons.dev)
-#### Ferramentas:
+### Ferramentas:
 - Git &ensp;  &ensp;  &ensp; &ensp; &ensp;&ensp; &ensp; ![](https://geps.dev/progress/100)
 - Linux &ensp; &ensp; &ensp; &ensp; &ensp;&ensp;![](https://geps.dev/progress/100)
 - Android Studio ![](https://geps.dev/progress/100)
