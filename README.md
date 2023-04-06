@@ -2,8 +2,9 @@
 
 ## 👨‍💻 Bem vindo ao meu perfil! Aqui você encontrará:
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,c,cpp,dart&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,java,js,c,cpp,dart&perline=6)](https://skillicons.dev)
 ### Linguagens:
+- SQL &ensp;&ensp; &ensp; &ensp;![](https://geps.dev/progress/100)
 - Java &ensp; &ensp; &ensp; ![](https://geps.dev/progress/100)
 - Javascript ![](https://geps.dev/progress/100)
 - C++/C &ensp; &ensp; ![](https://geps.dev/progress/70)
