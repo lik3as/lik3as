@@ -1,6 +1,6 @@
 ## Olá ^.^ 👋
 
-## 👨‍💻 Bem vindo ao meu perfil! Aqui você encontrará:
+## 👨‍💻 Bem vindo ao meu perfil!
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,java,js,c,cpp,dart&perline=6)](https://skillicons.dev)
 ### Linguagens:
