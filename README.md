@@ -1,4 +1,4 @@
-## Hi! I'm a Fullstack Software Developer! These are my skills:
+## Hi, I'm a Fullstack Software Developer 😁! These are my skills:
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,ts,cpp,java&perline=6)](https://skillicons.dev)
 ### Programming Languages:
