@@ -1,8 +1,7 @@
 ## Hi, I'm a Fullstack Software Developer 😁! These are my skills:
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,ts,cpp,java&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,ts,cpp,java&perline=6)](https://skillicons.dev)
 ### Programming Languages:
-- SQL
 - PL/pgSQL
 - Typescript
 - C++
