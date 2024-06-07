@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Bem vindo ao meu perfil!
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,ts,cpp&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,ts,cpp,java&perline=6)](https://skillicons.dev)
 ### Linguagens:
 - SQL
 - Typescript
