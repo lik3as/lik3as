@@ -13,7 +13,7 @@
 - Git
 - Linux
 - Docker
-
+---
 [![My Skills](https://skillicons.dev/icons?i=nodejs,sequelize,express,nestjs,react&perline=6)](https://skillicons.dev)
 ### Tech Stack
 - Node.js
