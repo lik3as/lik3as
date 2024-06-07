@@ -2,23 +2,21 @@
 
 ## 👨‍💻 Bem vindo ao meu perfil!
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,java,js,c,cpp,dart&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,js,cpp&perline=6)](https://skillicons.dev)
 ### Linguagens:
 - SQL
-- Java
 - Javascript
-- C++/C
-- Dart
+- C++
 ---
-[![My Skills](https://skillicons.dev/icons?i=git,linux,androidstudio,nodejs,flutter&perline=6)](https://skillicons.dev)
-### Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=git,linux,docker,nodejs,sequelize,nestjs,react&perline=6)](https://skillicons.dev)
+### Tecnologias:
 - Git
 - Linux
-- Android Studio
+- Docker
 - Node.js
-- Express
 - Sequelize
-- Flutter
+- Express
+- Nestjs
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lik3as&hide=stars,issues&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
