@@ -2,11 +2,12 @@
 
 ## 👨‍💻 Bem vindo ao meu perfil!
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,js,cpp&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,ts,cpp&perline=6)](https://skillicons.dev)
 ### Linguagens:
 - SQL
-- Javascript
+- Typescript
 - C++
+- Java
 ---
 [![My Skills](https://skillicons.dev/icons?i=git,linux,docker,nodejs,sequelize,nestjs,react&perline=6)](https://skillicons.dev)
 ### Tecnologias:
