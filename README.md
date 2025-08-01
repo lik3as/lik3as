@@ -1,5 +1,6 @@
 - PL/pgSQL
 - Typescript
+- C++
 - Python<br/>
 =================
 - Git
