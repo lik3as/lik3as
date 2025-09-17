@@ -10,6 +10,6 @@
 - Node.js
 - Nestjs
 - React
-- ORM<br/>
+- Sequelize<br/>
 =================<br/>
 ...let's all love lain
