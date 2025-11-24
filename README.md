@@ -1,15 +1,19 @@
-- PL/pgSQL
+### lang
+- Python
 - Typescript
-- C++
-- Python<br/>
+- C++<br/>
 =================
+### tool
 - Git
 - Linux
 - Docker<br/>
 =================
-- Node.js
-- Nestjs
+### web stack
+- MS SQL Server
+- Django
+- Nest.js
 - React
 - Sequelize<br/>
 =================<br/>
-...let's all love lain
+
+i <3 managing state
