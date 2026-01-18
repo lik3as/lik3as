@@ -13,7 +13,6 @@
 - Django
 - Nest.js
 - React
-- Sequelize<br/>
 =================<br/>
 
 i <3 managing state
