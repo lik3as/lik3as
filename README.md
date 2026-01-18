@@ -12,7 +12,7 @@
 - MS SQL Server
 - Django
 - Nest.js
-- React
+- React<br/>
 =================<br/>
 
 i <3 managing state
