@@ -15,4 +15,4 @@
 - React<br/>
 =================<br/>
 
-i <3 managing state
+i <3 state management
